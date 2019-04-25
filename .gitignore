@@ -1,0 +1,14 @@
+.idea/
+*.iml
+target/
+*.log*
+docker/production/*.jar
+schedule-spark-third-jar/files
+docker/production/application.yml
+docker/production/bootstrap.yml
+docker/production/log/
+.project
+*alexa-domain.csv
+whois.txt
+*.avro
+*~
